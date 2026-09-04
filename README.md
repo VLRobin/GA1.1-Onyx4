@@ -1,0 +1,1 @@
+Add-function: the function adds the two input variables.
