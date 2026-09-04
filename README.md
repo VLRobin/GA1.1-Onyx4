@@ -5,3 +5,5 @@ Square function added: the function calculates the square of the input variable.
 
 Add-function: the function adds the two input variables. 
 Extended the code with a sum function. 
+
+Bonus assignment in forking.
