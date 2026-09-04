@@ -1,0 +1,1 @@
+In the subtract notebook a function is created which takes a and b as input. It prints what a and b are and the answer to the subtraction a-b. 
